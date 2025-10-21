@@ -1,5 +1,5 @@
 {
-    "name": "vodevel/api-doc-bundle-type-describer",
+    "name": "dairlair/api-doc-bundle-type-describer",
     "description": "Describer to the nelmio/api-doc-bundle using method signature (types)",
     "keywords": ["describer", "nelmio", "api-doc-bundle", "type", "swagger", "openapi"],
     "type": "symfony-bundle",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "nelmio/api-doc-bundle": "^3.0|^4.0"
+        "nelmio/api-doc-bundle": "^3.0|^4.0|^v5.0"
     },
     "autoload": {
         "psr-4": {
